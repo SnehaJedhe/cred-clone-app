@@ -1,0 +1,7 @@
+.security{
+    border: 2px solid blue;
+    height: 100vh;
+    background-image: url(../Images/dog1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
